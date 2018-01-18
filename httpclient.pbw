@@ -7,7 +7,7 @@ Save Format v3.0(19990112)
  2 "genapp.pbt";
  3 "webservice.pbt";
  4 "genapp1.pbt";
- 5 "genapp2.pbt";
+ 5 "genapp3.pbt";
 @end;
-DefaultTarget "genapp2.pbt";
-DefaultRemoteTarget "genapp2.pbt";
+DefaultTarget "genapp3.pbt";
+DefaultRemoteTarget "genapp3.pbt";
