@@ -3,6 +3,7 @@ Save Format v3.0(19990112)
 @end;
 @begin Targets
  0 "pbrestful.pbt";
+ 10 "genapp8.pbt";
  1 "httpclient_autotest.pbt";
  2 "genapp.pbt";
  3 "webservice.pbt";
@@ -13,5 +14,5 @@ Save Format v3.0(19990112)
  8 "genapp7.pbt";
  9 "genapp2.pbt";
 @end;
-DefaultTarget "genapp2.pbt";
-DefaultRemoteTarget "genapp2.pbt";
+DefaultTarget "genapp8.pbt";
+DefaultRemoteTarget "genapp8.pbt";
