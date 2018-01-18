@@ -10,6 +10,7 @@ Save Format v3.0(19990112)
  5 "genapp4.pbt";
  6 "genapp5.pbt";
  7 "genapp6.pbt";
+ 8 "genapp7.pbt";
 @end;
-DefaultTarget "genapp6.pbt";
-DefaultRemoteTarget "genapp6.pbt";
+DefaultTarget "genapp7.pbt";
+DefaultRemoteTarget "genapp7.pbt";
