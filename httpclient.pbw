@@ -6,6 +6,7 @@ Save Format v3.0(19990112)
  1 "httpclient_autotest.pbt";
  2 "genapp.pbt";
  3 "webservice.pbt";
+ 4 "genapp1.pbt";
 @end;
-DefaultTarget "webservice.pbt";
-DefaultRemoteTarget "webservice.pbt";
+DefaultTarget "genapp1.pbt";
+DefaultRemoteTarget "genapp1.pbt";
